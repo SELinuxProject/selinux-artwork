@@ -1,5 +1,4 @@
 # Artwork for the SELinux Project
-===============================================================================
 https://github.com/SELinuxProject/selinux-artwork
 
 SELinux is flexible Mandatory Access Control (MAC) mechanism for Linux, this
